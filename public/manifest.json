@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Report and PDF Generation",
+  "name": "A simple app to write reports and generate PDFs",
   "icons": [
     {
       "src": "favicon.ico",
